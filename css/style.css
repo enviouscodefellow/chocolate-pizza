@@ -1,0 +1,52 @@
+header div{
+  display: inline-flex;
+  margin: 30px;
+}
+
+header div h2{
+  font-size: x-large;
+}
+
+header div h3{
+  
+}
+
+header ul{
+  float: right;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+/* header ul:last-child{
+  margin-left: 10px;
+} */
+
+header li{
+  display: inline-block;
+}
+
+body{
+  width: 90%;
+  margin:0 auto;
+}
+
+body h1{
+  font-size: xx-large;
+}
+
+#print{
+  display: flex
+}
+
+#cake{
+  width: 100%;
+}
+
+p{
+  text-indent: 30px;
+  margin-top: 25px;
+}
+
+form {
+
+}
